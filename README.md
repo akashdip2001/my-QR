@@ -10,8 +10,14 @@ your one QR connect with all
 <p align="left"> <a href="https://twitter.com/akashdipaot2001" target="blank"><img src="https://img.shields.io/twitter/follow/akashdipaot2001?logo=twitter&style=for-the-badge" alt="akashdipaot2001" /></a> </p>
 
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
--------------------------------------------------------------------------------------------------------------------------------
+
+
+![full web (2)](https://user-images.githubusercontent.com/81384987/193596394-d2f28441-32c0-4877-8dd8-9b2d7f8ffe3a.png)
+
+------------------------------------------------------------------------------------------------------------------------------
+
 ![qrcord](https://user-images.githubusercontent.com/81384987/192615739-5e81d9a0-0f3f-4d54-b7bb-1a1893f3302b.png)
+
 -------------------------------------------------------------------------------------------------------------------------------
 ![data](https://user-images.githubusercontent.com/81384987/192616448-6e40730e-000f-4d7f-9bb6-0a586b5428f4.jpg)
 
